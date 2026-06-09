@@ -1,0 +1,15 @@
+{
+  "originHash" : "45b34a3b983af9a5569ab5b04f1a7a66fe2e7cae9cbda0c0b6b20ef302884fff",
+  "pins" : [
+    {
+      "identity" : "aurora",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tornikegomareli/Aurora",
+      "state" : {
+        "branch" : "feature/v0.3",
+        "revision" : "4e218ccadbef3d75470462d03bc0b014f7b49f8d"
+      }
+    }
+  ],
+  "version" : 3
+}
